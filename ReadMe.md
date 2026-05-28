@@ -1,18 +1,18 @@
-# [PanGit](https://github.com/operarioribeiro/PanGit)
+# [Humanet](https://github.com/operarioribeiro/Humanet)
 
 > _"Human alternative to artificial intelligence."_
 
 ## Open Project:
 
-**PanGit** is a human based search engine and artisan intelligent (AI²) agent where humane consultants use rule of law (RoL) nonviolent communication to answer questions and guide users based on scientific method evidential data so creating an open science method to create countless new labor positions.
+**Humanet** is a human based search engine and artisan intelligent (AI²) agent where humane consultants use rule of law (RoL) nonviolent communication to answer questions and guide users based on scientific method evidential data so creating an open science method to create countless new labor positions.
 
-![image](https://github.com/operarioribeiro/PanGit/blob/main/PanGit.png)
+![image](https://github.com/operarioribeiro/PanGit/blob/main/Humanet.png)
 
-**The Name PanGit** is a pundit wordplay with "pandit" religious polymath literate scholars and "git" version control online auditorship. It was inspired by how Jain Muni Pulak Sagar saved the life of the first developer of the project so that its logo is a collage of Git's logo and the Jain "Ahimsa (Nonviolence)" emblem.
+**Humanet logo is called PanGit** which is a pundit wordplay with "pandit" religious polymath literate scholars and "git" version control online auditorship. It was inspired by how Jain Muni Pulak Sagar saved the life of the first developer of the project so that its logo is a collage of Git's logo and the Jain "Ahimsa (Nonviolence)" emblem.
 
 ## Open Usages:
 
-**PanGit allows human-to-human humane peer to peer (P2P) live**:
+**Humanet allows human-to-human humane peer to peer (P2P) live**:
 - _Anti-bullying chaplaincy_, including secular and interfaith justice equity diversity inclusion (JEDI).
 - _Audited online search_ through open databases and information reliability.
 - _Alternative to artificial intelligences (AIs)_ and machine learning (ML).
