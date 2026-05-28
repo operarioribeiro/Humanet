@@ -6,7 +6,7 @@
 
 **Humanet** is a human based search engine and artisan intelligent (AI²) agent where humane consultants use rule of law (RoL) nonviolent communication to answer questions and guide users based on scientific method evidential data so creating an open science method to create countless new labor positions.
 
-![image](https://github.com/operarioribeiro/PanGit/blob/main/Humanet.png)
+![image](https://github.com/operarioribeiro/Humanet/blob/main/Humanet.png)
 
 _The Humanet logo is composed of the United Nations (UN) Office of the High Commissioner on Human Rights (OHCHR) and the World Wide Web (WWW) world emoji emblem._
 
@@ -29,7 +29,7 @@ _The Humanet logo is composed of the United Nations (UN) Office of the High Comm
 
 **In 1998 Humanet was founded under the name PanGit** in the United Nations Children Education Fund (UNICEF) Apprentice School City program where a bunch of homeless and slum living internet researchers tried to find a way to generate internet jobs for everyone. Its name was a pundit wordplay with "[pandit](https://en.wikipedia.org/wiki/Pandit)" religious polymath literate scholars and "[git](https://en.wikipedia.org/wiki/Git)" version control online auditorship inspired by how the Jain Muni Pulak Sagar allowed its first developer to create peacemaking peace education projects in critically endangered communities so that its logo was a collage of Git's logo and the Jain "Ahimsa (Nonviolence)" emblem.
 
-![image](https://github.com/operarioribeiro/PanGit/blob/main/PanGit.png)
+![image](https://github.com/operarioribeiro/Humanet/blob/main/PanGit.png)
 
 ## Open License:
 
