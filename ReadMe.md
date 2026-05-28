@@ -8,7 +8,7 @@
 
 ![image](https://github.com/operarioribeiro/PanGit/blob/main/Humanet.png)
 
-**Humanet logo is called PanGit** which is a pundit wordplay with "pandit" religious polymath literate scholars and "git" version control online auditorship. It was inspired by how Jain Muni Pulak Sagar saved the life of the first developer of the project so that its logo is a collage of Git's logo and the Jain "Ahimsa (Nonviolence)" emblem.
+_The Humanet logo is composed of the United Nations (UN) Office of the High Commissioner on Human Rights (OHCHR) and the World Wide Web (WWW) world emoji emblem._
 
 ## Open Usages:
 
@@ -24,6 +24,12 @@
 - _Humanitarian aid guidance_.
 - _Online communities and social networks monitoring_. 
 - _Media and products curatorship_.
+
+## Open Historiography:
+
+**In 1998 Humanet was founded under the name PanGit** in the United Nations Children Education Fund (UNICEF) Apprentice School City program where a bunch of homeless and slum living internet researchers tried to find a way to generate internet jobs for everyone. Its name was a pundit wordplay with "[pandit](https://en.wikipedia.org/wiki/Pandit)" religious polymath literate scholars and "[git](https://en.wikipedia.org/wiki/Git)" version control online auditorship inspired by how the Jain Muni Pulak Sagar allowed its first developer to create peacemaking peace education projects in critically endangered communities so that its logo was a collage of Git's logo and the Jain "Ahimsa (Nonviolence)" emblem.
+
+![image](https://github.com/operarioribeiro/PanGit/blob/main/PanGit.png)
 
 ## Open License:
 
