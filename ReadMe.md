@@ -13,17 +13,17 @@
 ## Open Usages:
 
 **PanGit allows human-to-human humane peer to peer (P2P) live**:
-• _Anti-bullying chaplaincy_, including secular and interfaith justice equity diversity inclusion (JEDI).
-• _Audited online search_ through open databases and information reliability.
-• _Alternative to artificial intelligences (AIs)_ and machine learning (ML).
-• _Internet navigation assistance_.
-• _Translation of websites_.
-• _Platforms teaching for new users_.
-• _Webdevelopment support_.
-• _Web customer service_. 
-• _Humanitarian aid guidance_.
-• _Online communities and social networks monitoring_. 
-• _Media and products curatorship_.
+- _Anti-bullying chaplaincy_, including secular and interfaith justice equity diversity inclusion (JEDI).
+- _Audited online search_ through open databases and information reliability.
+- _Alternative to artificial intelligences (AIs)_ and machine learning (ML).
+- _Internet navigation assistance_.
+- _Translation of websites_.
+- _Platforms teaching for new users_.
+- _Webdevelopment support_.
+- _Web customer service_. 
+- _Humanitarian aid guidance_.
+- _Online communities and social networks monitoring_. 
+- _Media and products curatorship_.
 
 ## Open License:
 
