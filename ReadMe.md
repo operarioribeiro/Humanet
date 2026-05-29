@@ -4,7 +4,7 @@
 
 ## Open Project:
 
-**Humanet** is a human based search engine and artisan intelligent (AI²) agent where humane consultants use rule of law (RoL) nonviolent communication to answer questions and guide users based on scientific method evidential data so creating an open science method to create countless new labor positions.
+**Humanet** is a human based search engine and artisan intelligent (AI²) agent where humane consultants use rule of law (RoL) nonviolent communication to answer questions and guide users based on scientific method evidential data so creating an open science method to create countless new labor positions in "data humans centers".
 
 ![image](https://github.com/operarioribeiro/Humanet/blob/main/Humanet.png)
 
